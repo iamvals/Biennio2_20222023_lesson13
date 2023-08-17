@@ -15,3 +15,10 @@ h1 {
     font-size: 14vw;
     letter-spacing: -2px;
 }
+
+h2 {
+    font-family: 'barlow', sans-serif;
+    color: rgb(246, 234, 183);
+    font-size: 8vw;
+    letter-spacing: 10px;
+}
