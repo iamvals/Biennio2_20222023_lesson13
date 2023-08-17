@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(149, 204, 238);
 }
 
 h1 {
@@ -10,8 +10,8 @@ h1 {
 }
 
 h1 {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Pacifico', cursive;
     color: white;
-    font-size: 10vw;
+    font-size: 14vw;
     letter-spacing: -2px;
 }
